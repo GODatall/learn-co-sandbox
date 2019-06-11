@@ -1,0 +1,2 @@
+def greet instructor
+puts "Hey! welcome to work!"
